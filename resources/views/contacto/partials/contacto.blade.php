@@ -1,13 +1,10 @@
 <section>
-
     <div class="row text-center">
-
         <div class="col-md-12">
             <div class="heading">
                 <h2>Formulario de contacto</h2>
             </div>
         </div>
-
         <div class="col-md-8 col-md-offset-2">
             <form>
                 <div class="row">
@@ -37,23 +34,18 @@
                     </div>
                     <div class="col-sm-12">
                         <div class="form-group">
-                            <label for="message">Mensage</label>
+                            <label for="message">Mensaje</label>
                             <textarea id="message" class="form-control"></textarea>
                         </div>
                     </div>
-
                     <div class="col-sm-12 text-center">
-                        <button type="submit" class="btn btn-template-main"><i class="fa fa-envelope-o"></i>Enviar Mensaje</button>
+                        <button type="submit" class="btn btn-template-main"><i class="fa fa-envelope-o"></i>Enviar</button>
 
                     </div>
                 </div>
                 <!-- /.row -->
             </form>
-
-
-
         </div>
     </div>
     <!-- /.row -->
-
 </section>

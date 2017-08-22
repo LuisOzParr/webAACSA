@@ -7,14 +7,40 @@
                     <i class="fa fa-map-marker"></i>
                 </div>
                 <h3>Dirección</h3>
-                <p>13/25 New Avenue
-                    <br>New Heaven, 45Y 73J
-                    <br>England, <strong>Great Britain</strong>
+                <p><strong>Sucursal Colima</strong>
+                    <br>Emilio Brun Aillaud, #168 B
+                    <br>Colima, Colima.<br>
+                </p>
+                <p><strong>Sucursal Tecomán</strong>
+                    <br>Av. José Antonio Leaño, #479
+                    <br>Tecomán, Colima.<br>
+                </p>
+                <p><strong>Sucursal Guzmán</strong>
+                    <br>Km. 41 Carretera Cd. Guzmán - Zapotiltic
+                    <br>Cd. Guzmán, Jalisco.<br>
                 </p>
             </div>
             <!-- /.box-simple -->
         </div>
 
+
+        <div class="col-md-4">
+
+            <div class="box-simple">
+                <div class="icon">
+                    <i class="fa fa-clock-o"></i>
+                </div>
+                <h3>Horarios</h3>
+                <p><strong>Sucursal Colima</strong><br> 
+                Lunes a viernes 9:00 am a 7:00 pm<br>Sabado 8:00 am a 2:00 pm</p>
+                <p><strong>Sucursal Tecomán</strong><br> 
+                Lunes a viernes 8:00 am a 6:00 pm<br>Sabado 8:00 am a 2:00 pm</p>
+                <p><strong>Sucursal Guzmán</strong><br> 
+                Lunes a viernes 9:00 am a 6:00 pm<br>Sabado 8:00 am a 2:00 pm</p>
+            </div>
+            <!-- /.box-simple -->
+
+        </div>
 
         <div class="col-md-4">
 
@@ -22,27 +48,17 @@
                 <div class="icon">
                     <i class="fa fa-phone"></i>
                 </div>
-                <h3>Call center</h3>
-                <p class="text-muted">This number is toll free if calling from Great Britain otherwise we advise you to use the electronic form of communication.</p>
-                <p><strong>+33 555 444 333</strong>
-                </p>
-            </div>
-            <!-- /.box-simple -->
-
-        </div>
-
-        <div class="col-md-4">
-
-            <div class="box-simple">
-                <div class="icon">
-                    <i class="fa fa-envelope"></i>
-                </div>
-                <h3>Soporte electronico</h3>
-                <p class="text-muted">Please feel free to write an email to us or to use our electronic ticketing system.</p>
+                <h3>Contactos</h3>
                 <ul class="list-style-none">
-                    <li><strong><a href="mailto:">info@fakeemail.com</a></strong>
-                    </li>
-                    <li><strong><a href="#">Ticketio</a></strong> - our ticketing support platform</li>
+                    <p><strong>Sucursal Colima<br>
+                        <a href="#">faacsa@gmail.com</a></strong> - Rogelio Torres
+                        <br><strong>tel:(312) 313 4148</strong></p>
+                    <p><strong>Sucursal Tecomán<br>
+                        <a href="#">aacsatecoman@gmail.com</a></strong> - Ana Sanchez
+                        <br><strong>tel:(313) 324 0154</strong></p>
+                    <p><strong>Sucursal Guzmán<br>
+                        <a href="#">aacsa_guzman@hotmail.com</a></strong> - Stephanie Magaña
+                        <br><strong>tel:(341) 413 2777</strong></p>
                 </ul>
             </div>
             <!-- /.box-simple -->

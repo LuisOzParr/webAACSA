@@ -81,7 +81,7 @@
         var myLatLng = {lat: 19.272202, lng: -103.715257};
         map = new google.maps.Map(document.getElementById('map'), {
             center: myLatLng,
-            zoom: 18
+            zoom: 15
         });
         var marker = new google.maps.Marker({
             position: myLatLng,

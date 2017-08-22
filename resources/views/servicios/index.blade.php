@@ -1,6 +1,6 @@
 @extends('templeta.main_titulo')
 
-@section('titulo','Eventos')
+@section('titulo','Servicios')
 @section('body')
 
 @endsection

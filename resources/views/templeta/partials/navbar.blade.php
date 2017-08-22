@@ -52,7 +52,7 @@
                                 </ul>
                             </li>
                             <li>
-                                <a href="{!! route('eventos.index') !!}">Eventos</b></a>
+                                <a href="{!! route('servicios.index') !!}">Servicios</b></a>
                             </li>
                             <!-- ========== FULL WIDTH MEGAMENU END ================== -->
 

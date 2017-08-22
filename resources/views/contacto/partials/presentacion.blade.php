@@ -3,11 +3,11 @@
         <div class="col-md-12">
             <section>
                 <div class="heading">
-                    <h2>Estamos aqui para ayusarte</h2>
+                    <h2>Atención a clientes</h2>
                 </div>
 
-                <p class="lead">¿Tienes curiosidad sobre algo? ¿Tienes algun promelema con algun producto? </p>
-                <p>Porfavor sientete libre de contactarte con nosotros. Nuestro servicio a clientes esta funcionando 24/7.</p>
+                <p class="lead">¿Te interesa alguno de nuestros productos? ¿Quieres obtener más información? </p>
+                <p>Porfavor sientete libre de contactarte con nosotros a cualquiera de nuestras sucursales. Estamos aqui para la disposicion y servicio al cliente.</p>
             </section>
         </div>
     </div>

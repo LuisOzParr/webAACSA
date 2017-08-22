@@ -22,9 +22,6 @@
                     <li class="item">
                         <img src="img/customer-5.png" alt="" class="img-responsive">
                     </li>
-                    <li class="item">
-                        <img src="img/customer-6.png" alt="" class="img-responsive">
-                    </li>
                 </ul>
                 <!-- /.owl-carousel -->
             </div>

@@ -11,10 +11,13 @@ _________________________________________________________ -->
                 <div class="item">
                     <div class="row">
                         <div class="col-sm-5 right">
-                            <h1>B2320DN-MEX</h1>
-                            <br>
-                            <p>Los Tractores Kubota B2320 versatil standard y B2320 narrow cuentan con
-                                más potencia, y versatilidad para realizar una amplia variedad de tareas.</p>
+                            <h1>TRACTORES KUBOTA</h1>
+                            <ul class="list-style-none">
+                            <li>Mayor acceso a terrenos pequeños y los más económicos</li>
+                            <li>Diseñados para satisfacer los trabajos más exigentes</li>
+                            <li>Doble tracción y mayor potencia</li>
+                            <li>Diseño, comodidad y productividad unidas para un mayor rendimiento de los usuarios</li>
+                            </ul>
                         </div>
                         <div class="col-sm-7">
                             <img class="img-responsive" src="img/heder_home/B2320.png" alt="">
@@ -29,13 +32,8 @@ _________________________________________________________ -->
                         </div>
 
                         <div class="col-sm-5">
-                            <h2>46 HTML pages full of features</h2>
-                            <ul class="list-style-none">
-                                <li>Sliders and carousels</li>
-                                <li>4 Header variations</li>
-                                <li>Google maps, Forms, Megamenu, CSS3 Animations and much more</li>
-                                <li>+ 11 extra pages showing template features</li>
-                            </ul>
+                            <h1>Agroenzymas</h1>
+                            <p>Especializada en la búsqueda de la eficiencia productiva de cultivos agrícolas a través de soluciones puntuales o integración de conocimientos de más de 25 años de experiencia.<p>
                         </div>
 
                     </div>
@@ -43,12 +41,9 @@ _________________________________________________________ -->
                 <div class="item">
                     <div class="row">
                         <div class="col-sm-5 right">
-                            <h1>Design</h1>
+                            <h1>ASPERSORAS JACTO</h1>
                             <ul class="list-style-none">
-                                <li>Clean and elegant design</li>
-                                <li>Full width and boxed mode</li>
-                                <li>Easily readable Roboto font and awesome icons</li>
-                                <li>7 preprepared colour variations</li>
+                                <p>Más de medio siglo de historia dedicada a la agricultura brasileña desarrollando equipos innovadores y de alta tecnología. Líder de mercado en el área de pulverizadores cuenta con un conjunto industrial de primer mundo</p>
                             </ul>
                         </div>
                         <div class="col-sm-7">
@@ -58,14 +53,19 @@ _________________________________________________________ -->
                 </div>
                 <div class="item">
                     <div class="row">
+                        <div class="col-sm-5">
+                            <h1>ECHO</h1>
+                            <ul class="list-style-none">
+                                <li>La tecnología de ECHO mas de 40 años en los mercados del sector de jardinería, agricultura, forestal y urbano. Se enfoca en la combinación de rendimiento de alta calidad y la protección del medio ambiente.</li>
+                            </ul>
+                        </div>
                         <div class="col-sm-7">
                             <img class="img-responsive" src="img/heder_home/otros.png" alt="">
                         </div>
                         <div class="col-sm-5">
-                            <h1>Easy to customize</h1>
+                            <h1>SHINDAIWA</h1>
                             <ul class="list-style-none">
-                                <li>7 preprepared colour variations.</li>
-                                <li>Easily to change fonts</li>
+                                <li>Shindaiwa es conocido alrededor del mundo como líder en el diseño y fabricación de desmalezadoras y podadoras profesionales de tecnología japonesa de alto rendimiento en la industria de equipos motorizados para el campo y el jardín</li>
                             </ul>
                         </div>
                     </div>

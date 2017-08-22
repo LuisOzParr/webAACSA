@@ -26,7 +26,7 @@ Route::resource('/contactanos', 'ContactanosController',[
 
 Route::resource('/productos', 'ProductosController');
 
-Route::resource('/eventos', 'EventosController',[
+Route::resource('/servicios', 'serviciosController',[
     'only' => [
         'index'
     ]
