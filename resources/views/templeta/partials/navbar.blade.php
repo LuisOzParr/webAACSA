@@ -35,11 +35,11 @@
                                                 <div class="col-sm-3">
                                                     <h5>Kubota</h5>
                                                     <ul>
-                                                        <li><a href="">B2320</a>
+                                                        <li><a href="pdfs/B2320.pdf"  target="_blank">B2320</a>
                                                         </li>
-                                                        <li><a href="">L3800</a>
+                                                        <li><a href="pdfs/L38004WD.pdf" target="_blank">L3800</a>
                                                         </li>
-                                                        <li><a href="">MX5100</a>
+                                                        <li><a href="pdfs/MX5100.pdf" target="_blank">MX5100</a>
                                                         </li>
                                                     </ul>
                                                 </div>
