@@ -23,7 +23,7 @@
             <div class="col-md-4">
                 <div class="box-simple">
                     <div class="icon">
-                        <i class="fa fa-globe"></i>
+                        <i class="fa fa-phone"></i>
                     </div>
                     <h3>Atención a Clientes</h3>
                     <p>Recibiras la mejor atención en cualquiera de nuestras sucursales, sintiendo un ambiente amigable podras confiar en nosotros para aclarar tus dudas, apoyandote para resolver cualquier problema que se te presente con cualquiera de nuestros productos</p>
