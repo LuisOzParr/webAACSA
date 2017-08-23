@@ -63,3 +63,4 @@ $RECYCLE.BIN/
 composer.lock
 .env.example
 .idea/workspace.xml
+.idea/workspace.xml
