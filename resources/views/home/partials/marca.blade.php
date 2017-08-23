@@ -5,7 +5,6 @@
                 <div class="heading text-center">
                     <h2>Marcas</h2>
                 </div>
-
                 <ul class="owl-carousel customers">
                     <li class="item">
                         <img src="img/customer-1.png" alt="" class="img-responsive">

@@ -57,16 +57,12 @@ _________________________________________________________ -->
                             <h1>ECHO</h1>
                             <ul class="list-style-none">
                                 <li>La tecnología de ECHO mas de 40 años en los mercados del sector de jardinería, agricultura, forestal y urbano. Se enfoca en la combinación de rendimiento de alta calidad y la protección del medio ambiente.</li>
+                                <h1>SHINDAIWA</h1>
+                                <li>Shindaiwa es conocido alrededor del mundo como líder en el diseño y fabricación de desmalezadoras y podadoras profesionales de tecnología japonesa para el jardin y el campo.</li>
                             </ul>
                         </div>
                         <div class="col-sm-7">
                             <img class="img-responsive" src="img/heder_home/otros.png" alt="">
-                        </div>
-                        <div class="col-sm-5">
-                            <h1>SHINDAIWA</h1>
-                            <ul class="list-style-none">
-                                <li>Shindaiwa es conocido alrededor del mundo como líder en el diseño y fabricación de desmalezadoras y podadoras profesionales de tecnología japonesa de alto rendimiento en la industria de equipos motorizados para el campo y el jardín</li>
-                            </ul>
                         </div>
                     </div>
                 </div>

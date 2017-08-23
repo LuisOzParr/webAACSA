@@ -78,3 +78,10 @@ section.heder{
     font-size: 12px;
     line-height: 28px;
 }
+/*Iconos quienes somos */
+
+
+div.icon.blanco {
+    color: #ffffff;
+    border-color: #ffffff;
+}

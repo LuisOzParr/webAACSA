@@ -1,11 +1,17 @@
 <section class="bar background-image-fixed-2 no-mb color-white text-center">
     <div class="dark-mask"></div>
     <div class="container">
+
         <div class="row">
+            <div class="col-md-12">
+                <div class="heading text-center">
+                    <h2>¿Por qué nosotros?</h2>
+                </div>
+            </div>
             <div class="col-md-4">
-                <div class="box-simple">
-                    <div class="icon">
-                        <i class="fa fa-cogs"></i>
+                <div class="box-simple blanco">
+                    <div class="icon blanco">
+                        <i class="fa fa-cogs blanco"></i>
                     </div>
                     <h3>Refacciones</h3>
                     <p>Tenemos una amplia gama de refacciones y consumibles en las marcas de los productos que vendemos, contando con refacciones %100 originales y de la más alta calidad.</p>
@@ -13,7 +19,7 @@
             </div>
             <div class="col-md-4">
                 <div class="box-simple">
-                    <div class="icon">
+                    <div class="icon blanco">
                         <i class="fa fa-wrench"></i>
                     </div>
                     <h3>Servicios</h3>
@@ -22,7 +28,7 @@
             </div>
             <div class="col-md-4">
                 <div class="box-simple">
-                    <div class="icon">
+                    <div class="icon blanco">
                         <i class="fa fa-globe"></i>
                     </div>
                     <h3>Atención a Clientes</h3>
