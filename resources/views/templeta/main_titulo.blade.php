@@ -57,6 +57,8 @@
 @yield('body')
 
 @include('templeta.partials.copyright')
+<div class="col-sm-12 blanco" style="height: 5px" ></div>
+
 
 
 {!! Html::script('js/jquery-1.11.0.min.js') !!}
@@ -78,15 +80,39 @@
 <script>
     var map;
     function initMap() {
-        var myLatLng = {lat: 19.272202, lng: -103.715257};
+        var colima = {lat: 19.272202, lng: -103.715257};
+        var tecoman = {lat:18.908705, lng: -103.866419};
+        var guzman = {lat:19.667331, lng:-103.477540}
+        var developer = {lat:-49.369963, lng:69.371732};
+
+
         map = new google.maps.Map(document.getElementById('map'), {
-            center: myLatLng,
+            center: colima,
             zoom: 15
         });
+
         var marker = new google.maps.Marker({
-            position: myLatLng,
+            position: colima,
             map: map,
-            title: 'Hello World!'
+            title: 'Sucursal Colima'
+        });
+
+        var marker4 = new google.maps.Marker({
+            position: guzman,
+            map: map,
+            title: 'Sucursal Cd. Guzman'
+        });
+
+        var marker2 = new google.maps.Marker({
+            position: tecoman,
+            map: map,
+            title: 'Sucursal Tecoman'
+        });
+
+        var marker3 = new google.maps.Marker({
+            position: developer,
+            map: map,
+            title: 'Creado por LuisOzParr'
         });
     }
 </script>

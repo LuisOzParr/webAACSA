@@ -1,0 +1,1 @@
+<li class="{{ $status }}"><a href="#{{ $id }}" data-toggle="tab" aria-expanded="true">{{ $name }}</a></li>

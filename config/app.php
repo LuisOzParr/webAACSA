@@ -179,6 +179,10 @@ return [
         App\Providers\EventServiceProvider::class,
         App\Providers\RouteServiceProvider::class,
 
+        App\Providers\PanelProvider::class,
+        App\Providers\ModalProvider::class,
+        App\Providers\MenuProvider::class,
+
     ],
 
     /*
@@ -229,6 +233,11 @@ return [
         'View' => Illuminate\Support\Facades\View::class,
         'Form' => Collective\Html\FormFacade::class,
         'Html' => Collective\Html\HtmlFacade::class,
+
+        //Mis Facade
+        'Panel' => App\Facades\PanelFacade::class,
+        'Modal' => App\Facades\ModalFacade::class,
+        'Menu' => App\Facades\MenuFacade::class,
 
     ],
 

@@ -32,17 +32,52 @@
                                     <li>
                                         <div class="yamm-content">
                                             <div class="row">
-                                                <div class="col-sm-7">
-                                                    <img src="img/photogrid.jpg" class="img-responsive hidden-xs" alt="">
-                                                </div>
-                                                <div class="col-sm-5">
-                                                    <h5>Shortcodes</h5>
+                                                <div class="col-sm-3">
+                                                    <h5>Kubota</h5>
                                                     <ul>
-                                                        <li><a href="template-accordions.html">KUBOTA</a>
+                                                        <li><a href="">B2320</a>
                                                         </li>
-                                                        <li><a href="template-alerts.html">JACTO</a>
+                                                        <li><a href="">L3800</a>
                                                         </li>
-                                                        <li><a href="template-buttons.html">AGROENZIMAS</a>
+                                                        <li><a href="">MX5100</a>
+                                                        </li>
+                                                    </ul>
+                                                </div>
+                                                <div class="col-sm-3">
+                                                    <h5>Jacto</h5>
+                                                    <ul>
+                                                        <li><a href="">Arbus 500</a>
+                                                        </li>
+                                                        <li><a href="">Arbus 1000</a>
+                                                        </li>
+                                                        <li><a href="">Arbus 2000</a>
+                                                        </li>
+                                                    </ul>
+                                                </div>
+                                                <div class="col-sm-3">
+                                                    <h5>Agroenzimas</h5>
+                                                    <ul>
+                                                        <li><a href="">AgroMil plus</a>
+                                                        </li>
+                                                        <li><a href="">Rooting</a>
+                                                        </li>
+                                                        <li><a href="">AgrexF</a>
+                                                        </li>
+                                                    </ul>
+                                                </div>
+                                                <div class="col-sm-3">
+                                                    <h5>Echo</h5>
+                                                    <ul>
+                                                        <li><a href="">Shp-800-2</a>
+                                                        </li>
+                                                        <li><a href="">DM4610</a>
+                                                        </li>
+                                                    </ul>
+                                                    <h5>Shindaiwa</h5>
+                                                    <ul>
+                                                        <li><a href="#">T230XR</a>
+                                                        </li>
+                                                        <li><a href="">T270</a>
                                                         </li>
                                                     </ul>
                                                 </div>
